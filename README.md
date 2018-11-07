@@ -10,3 +10,5 @@ Keyboard "q" may also be used for "Quit", "r" for "Restart", and "p" for "Print 
 Each entry must be followed by "return" or "enter" key
 
 AI players must be configured.
+
+FILE INFO: A4.ipynb is used to anlyze heuristics/AIs - Snake.ipynb is used for clean render of game
